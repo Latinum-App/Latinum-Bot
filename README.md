@@ -60,6 +60,9 @@ Below is an list of feature.
 - with the command challenge you can start the game in the dm's of the bot.
 - with addvocabulary you can add words to the given database of the bot.
 
-## Contributing
+### Project Structure
 
-It's not possible to contribute at the moment.
+main.py is the file which contains the code for the bot. In there you have to insert your discord bot token and the prefix you want the bot to use.
+vocabulary.db is the file that contains the latin word and the translation (currently in german). You can edit it using the bot's addvocabulary command or a database editing program.
+
+## Contributing
