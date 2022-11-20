@@ -8,7 +8,7 @@ It is fully functional and only needs words to be added.
  * [How to build](#how-to-build)
     * [Git](#git)
     * [Python](#Python)
-    * [Cloning and generating project files](#cloning-and-generating-project-files)
+    * [Cloning and using the bot](#cloning-and-using-the-bot)
  * [Staying Up To Date](#staying-up-to-date)
  * [Project Structure](#project-structure)
  * [Features](#features)
