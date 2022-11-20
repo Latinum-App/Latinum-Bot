@@ -3,7 +3,7 @@
 Latinum Bot was made by @KampfZomby for a planned Discord Server. 
 It is fully functional and only needs words to be added.
 
-You can try the bot [here](https://replit.com/@KampfZomby/Latinum-Bot#main.py) and invite a test bot to your server [here](google.com)
+You can try the bot [here](https://replit.com/@KampfZomby/Latinum-Bot#main.py) and invite a test bot to your server [here](https://discord.com/api/oauth2/authorize?client_id=1043976414258532462&permissions=0&scope=bot)
 
 ## Table of contents
 
